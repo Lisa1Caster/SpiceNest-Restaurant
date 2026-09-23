@@ -1,0 +1,7 @@
+{
+  "name": "SpiceNest Restaurant",
+  "description": "Where Flavor Meets Elegance — Luxury dining experience in Harrow, England. Exceptional cuisine, curated tasting menus, and intimate private events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
